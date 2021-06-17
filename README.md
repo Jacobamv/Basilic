@@ -1,2 +1,3 @@
 # Brokkoli
-LightWeight Asynchronius Web framework based on japronto styled like flask
+Lightweight Asynchronius Web framework based on japronto styled like flask
+works only on Mac/*nix os
