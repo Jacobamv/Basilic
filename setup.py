@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name = 'Basilic',         # How you named your package folder (MyLib)
-  packages = ['Basilic'],   # Chose the same as "name"
+  name = 'basilic',         # How you named your package folder (MyLib)
+  packages = ['basilic'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='gpl-2.0',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Lightweight Asynchronius Web framework based on japronto styled like flask',   # Give a short description about your library
