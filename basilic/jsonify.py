@@ -1,3 +1,6 @@
+__all__ = ["jsonify"]
+
+
 def jsonify(request, *args, **kwargs):
     js = {}
     for i in args:
